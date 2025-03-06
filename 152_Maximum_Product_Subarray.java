@@ -1,6 +1,5 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int prod = 1;
         int res = nums[0];
         int maxp = nums[0];
         int minp = nums[0];
