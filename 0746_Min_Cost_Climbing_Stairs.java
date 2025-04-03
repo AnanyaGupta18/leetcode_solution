@@ -6,4 +6,4 @@ class Solution {
         }
         return Math.min(cost[n-1], cost[n-2]);
     }
-}7
+}
